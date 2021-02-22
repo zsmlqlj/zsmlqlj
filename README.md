@@ -1,16 +1,14 @@
-### Hi there 👋
+# 你好，这里是zsmlqlj👋
 
-<!--
-**zsmlqlj/zsmlqlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsmlqlj&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+在校大学生一枚，喜欢动漫喜欢编程，尝试做一些方便自己和他人的小工具:sparkles:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsmlqlj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- 🔭 目前在使用java后端以及准备学习前端开发
+- 🌱 使用过kotlin进行android开发
+- 👯 希望结交志同道合的兄弟
+- 🤔 想找一个实习看看
+- 😄 喜欢我的项目可以star和分享呀
