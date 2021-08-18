@@ -7,8 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsmlqlj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 目前在使用java后端以及准备学习前端开发
+- 🔭 目前在java后端实习中以及准备学习前端开发
 - 🌱 使用过kotlin进行android开发
-- 👯 希望结交志同道合的兄弟,可以联系zsmlqlj@163.com
-- 🤔 想找一个实习看看
-- 😄 喜欢我的项目可以star和分享呀
+- 👯 项目问题可以联系zsmlqlj@163.com
+- 😄 喜欢我的项目可以star和分享
